@@ -18,15 +18,21 @@
 
 * Programa 1
 
-![image](https://github.com/oscarlucas22/Proyecto-Final-Parte1_LM/blob/main/img-Prog/img-Prog1.png)
+Muestra información de un continente que introduzcas por teclado, introduciendo el id que desees y la información que deseas mostrar
+
+![image]()
 
 * Programa 2
 
-![image](https://github.com/oscarlucas22/Proyecto-Final-Parte1_LM/blob/main/img-Prog/img-Prog2.png)
+Muestra información de las ligas Alemanas según el id del pais que introduzcas por teclado, introduciendo el id que desees y la información que deseas mostrar 
+
+![image]()
 
 * Programa 3
 
-![image](https://github.com/oscarlucas22/Proyecto-Final-Parte1_LM/blob/main/img-Prog/img-Prog3.png)
+Muestra información de todas las temporadas de la Bundesliga alemana según el id de la liga que introduzcas por teclado, introduciendo la información que deseas mostrar
+
+![image]()
 
 ### Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
 
