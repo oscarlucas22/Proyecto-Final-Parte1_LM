@@ -18,7 +18,6 @@
 
 * Programa 1
 
-![image](https://github.com/oscarlucas22/Proyecto-Final-Parte1_LM/blob/main/img-Prog/img-Prog1.png)
 
 * Programa 2
 
