@@ -30,18 +30,6 @@
 
 ### Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
 
-* ¿Que hace mi Programa 1?
-
-El Programa 1 nos va a mostrar todos los paises que sean del continente que se introduzca por teclado
-
-* ¿Que hace mi Programa 2?
-
-El Programa 2 nos va a mostrar todas las ligas Alemanas con el id del pais que se introduzca por teclado
-
-* ¿Que hace mi Programa 3?
-
-El Programa 3 nos va a mostrar todas las temporadas que están disponibles para la Bundesliga alemana con el id de la liga que se introduzca por teclado
-
 ### Las URL de la documentación del servicio web (o servicios) que vais a utilizar.
 
 * https://app.sportdataapi.com/documentation
