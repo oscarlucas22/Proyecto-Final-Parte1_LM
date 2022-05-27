@@ -15,9 +15,9 @@ if r.status_code == 200:
     print(json.dumps(datos,indent=4,sort_keys=True))
     respuesta = input("¿Quieres ver una vista simplificada? (S/N): ")
     if respuesta == "S":
-        ip = input("¿Que id quieres que muestre información?: ")
+        id = input("¿Que id quieres que muestre información?: ")
         var = input("¿Que quieres que muestre?: ")
-        print(json.dumps(datos.get("data").get(ip).get(var),indent=4,sort_keys=True))
+        print(json.dumps(datos.get("data").get(id).get(var),indent=4,sort_keys=True))
     else:
         print("Ok")
 else:
