@@ -36,6 +36,8 @@ Muestra información de todas las temporadas de la Bundesliga alemana según el 
 
 ### Una descripción de lo que va a hacer tu aplicación web utilizando estos servicios web.
 
+Mi aplicación web va a hacer una busqueda de continentes, ligas y temporadas de equipos de futbol y te mostrara información de cada cosa según los parametros que le indiques
+
 ### Las URL de la documentación del servicio web (o servicios) que vais a utilizar.
 
 * https://app.sportdataapi.com/documentation
